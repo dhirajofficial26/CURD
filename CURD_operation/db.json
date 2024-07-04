@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "702",
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "primary_phone": "333-333-3333",
+      "alternate_phone": "444-444-4444",
+      "email": "bob.smith@example.com",
+      "date_registered": "2024-07-01"
+    },
+    {
+      "id": "703",
+      "first_name": "Charlie",
+      "last_name": "Davis",
+      "primary_phone": "555-555-5555",
+      "alternate_phone": "666-666-6666",
+      "email": "charlie.davis@example.com",
+      "date_registered": "2024-07-02"
+    },
+    {
+      "id": "706",
+      "first_name": "Fiona",
+      "last_name": "Taylor",
+      "primary_phone": "123-456-7890",
+      "alternate_phone": "098-765-4321",
+      "email": "fiona.taylor@example.com",
+      "date_registered": "2024-07-03"
+    },
+    {
+      "id": "707",
+      "first_name": "George",
+      "last_name": "Anderson",
+      "primary_phone": "234-567-8901",
+      "alternate_phone": "876-543-2109",
+      "email": "george.anderson@example.com",
+      "date_registered": "2024-07-04"
+    },
+    {
+      "id": "708",
+      "first_name": "Hannah",
+      "last_name": "Thomas",
+      "primary_phone": "345-678-9012",
+      "alternate_phone": "765-432-1098",
+      "email": "hannah.thomas@example.com",
+      "date_registered": "2024-07-04"
+    },
+    {
+      "id": "709",
+      "first_name": "rayn",
+      "last_name": "Jackson",
+      "primary_phone": "456-789-0123",
+      "alternate_phone": "654-321-0987",
+      "email": "ian.jackson@example.com",
+      "date_registered": "2024-07-05"
+    },
+    {
+      "id": "1a67",
+      "user_id": 0.3129399241313662,
+      "first_name": "Dhiraj",
+      "last_name": "Chaudhari",
+      "primary_phone": "08552828342",
+      "alternate_phone": "08552828342",
+      "email": "chaudharidhiraj2612@gmail.com",
+      "date_registered": "2000-12-26"
+    },
+    {
+      "id": "c2c8",
+      "user_id": 0.5050681271698487,
+      "first_name": "Dhiraj",
+      "last_name": "Chaudhari",
+      "primary_phone": "08552828342",
+      "alternate_phone": "08552828342",
+      "email": "chaudharidhiraj2612@gmail.com",
+      "date_registered": "2024-07-17"
+    },
+    {
+      "id": "fece",
+      "user_id": 0.47127386424927886,
+      "first_name": "Dhiraj",
+      "last_name": "Chaudhari",
+      "primary_phone": "08552828342",
+      "alternate_phone": "08552828342",
+      "email": "chaudharidhiraj2612@gmail.com",
+      "date_registered": "2024-07-16"
+    }
+  ]
+}
